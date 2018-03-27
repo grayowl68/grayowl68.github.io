@@ -327,7 +327,7 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/gemeindewochenende-2-1178x662.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gemeindewochenende-4-1178x662.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -337,7 +337,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Gemeindeweekend",
+                "title": "Gemeinde-Weekend",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Diemtigtal, 9.-12. Mai 2018",
