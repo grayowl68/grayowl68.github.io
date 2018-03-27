@@ -327,8 +327,8 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/gemeindewochenende-1178x662.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/gemeindewochenende-1-1178x662.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -344,8 +344,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FLYER</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1626x1080.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1626x1080.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -354,7 +354,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "TOUCHDOWN",
+                "title": "Touchdown",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "15. April<br>Festgottesdienst in der Migros Klubschule im Surseepark",
