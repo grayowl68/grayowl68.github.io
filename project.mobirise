@@ -327,7 +327,7 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/gemeindewochenende-1-1178x662.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gemeindewochenende-2-1178x662.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -344,7 +344,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FLYER</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1626x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1626x1080.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
